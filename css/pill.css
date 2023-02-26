@@ -1,0 +1,16 @@
+.pill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--primary-color);
+  border-radius: 100px;
+
+  margin: 1rem;
+  width: 600px;
+}
+
+
+.pill img {
+  padding: 2rem;
+}

@@ -1,0 +1,36 @@
+
+
+.hero-section {
+  background: radial-gradient(circle, rgba(27,27,27,1) 0%, rgba(12,12,12,1) 32%);
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-section p {
+  color: white;
+
+}
+
+.hero-section input[type=text] {
+  width: 14rem;
+  height: 2rem;
+  margin: 0;
+  background: transparent;
+  border: white 10px;
+}
+
+button {
+  background-color: #a10526;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 16px ;
+}
