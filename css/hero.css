@@ -1,8 +1,12 @@
 
 
 .hero-section {
-  background: radial-gradient(circle, rgba(27,27,27,1) 0%, rgba(12,12,12,1) 32%);
-  width: 100vw;
+  /*background-image: url('/img/nainoa-shizuru-NcdG9mK3PBY-unsplash.jpg');*/
+  /*background-repeat: no-repeat;*/
+  /*background-size: cover;*/
+  /*background-color: rgba(16, 16, 16, 0.91);*/
+  /*background-blend-mode: multiply;*/
+  width: 98vw;
   height: 80vh;
   display: flex;
   justify-content: center;
